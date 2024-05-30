@@ -57,9 +57,9 @@ else{
 
   
 const handleReset=()=>{
-setIsPrinciple(0)
-setIsRate(0)
-setIsYear(0)
+setPrinciple(0)
+setRate(0)
+setYear(0)
 setIsPrinciple(true)
 setIsRate(true)
 setIsYear(true)
